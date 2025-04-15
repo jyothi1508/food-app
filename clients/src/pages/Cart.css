@@ -1,0 +1,18 @@
+.cart-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .cart-container ul {
+    list-style: none;
+  }
+  
+  .cart-container button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    background: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
